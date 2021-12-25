@@ -10,8 +10,11 @@ install:	jargon.dic jargon.aff
 	sort -u <$? >$@
 	printf '%s\n' 0a `wc -l < $@` '.' 'x' | ex $@
 
-# Create dictionary from vocabulary file
+# Create sorted dictionary from vocabulary file
 %.dic:	%.voc %.aff
-	munch $*.voc $*.aff >$@ 2>/dev/null
+	munch $*.voc $*.aff >$*.tmp 2>/dev/null
+	sed '1d' $*.tmp | sort >$@
+	rm -f $*.tmp
+	printf '%s\n' 0a `wc -l < $@` '.' 'x' | ex $@
 
 .SUFFIXES:	.aff .dic .voc .txt
