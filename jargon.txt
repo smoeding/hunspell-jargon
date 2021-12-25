@@ -16,6 +16,7 @@ BITNET
 BOFH
 BOFHs
 BSDs
+BibTeX
 Borgs
 CMOS
 CMYK
@@ -39,6 +40,7 @@ EPROM
 FUDs
 Fortran
 FreeBSD
+FreeRADIUS
 Github
 Hiera
 IMAP
