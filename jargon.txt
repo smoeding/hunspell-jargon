@@ -2,6 +2,7 @@ ACL
 ACLs
 ADSL
 AGP
+AIX
 AIs
 ANSI
 ANSIs
@@ -10,6 +11,9 @@ ASCIIs
 ActiveX
 Adas
 Amdahl
+Amiga
+AmigaDOS
+Amigas
 BASICs
 BBSes
 BITNET
@@ -19,11 +23,13 @@ BSDs
 BibTeX
 Borgs
 CMOS
+CMS
 CMYK
 COBOLs
 CPU
 CPUs
 CentOS
+DASD
 DDTs
 DEC
 DECUS
@@ -36,13 +42,16 @@ DVI
 Datamation
 Diffie
 Dilberts
+DocBook
 EPROM
 FUDs
 Fortran
 FreeBSD
 FreeRADIUS
 Github
+Gitlab
 Hiera
+IBMs
 IMAP
 IRC
 IRCs
@@ -59,13 +68,16 @@ Linuxes
 MEGO
 MEGOs
 MIPS
+MVS
 Marses
 Multics
 NeWS
 NeWSes
+Novell
 OLTP
 OSes
 OpenSSL
+OpenVMS
 PARC
 PARCs
 PDP
@@ -85,10 +97,9 @@ Puppetserver
 QWERTY
 RFCs
 RHEL
+RSA
 RedHat
 SMTP
-SOSes
-SOs
 SSD
 SSDs
 SSL
@@ -101,6 +112,7 @@ TELNETTed
 TELNETTing
 TELNETs
 TLS
+TTY
 TeX
 TeXes
 URLs
@@ -115,6 +127,7 @@ VAX
 VAXen
 VAXes
 VLSI
+VM
 VMS
 Winchesters
 Wireshark
@@ -293,6 +306,7 @@ jello
 jellos
 kahuna
 kahunas
+kermit
 kludge
 kludged
 kludges
@@ -344,6 +358,7 @@ monospace
 monospaced
 multitask
 multitasks
+multiuser
 mundanes
 mung
 munged
@@ -381,6 +396,7 @@ overclocked
 overclocking
 pastie
 payware
+perl
 pessimal
 phage
 phages
@@ -496,3 +512,4 @@ zens
 zeroes
 zeroth
 zorch
+zsh
