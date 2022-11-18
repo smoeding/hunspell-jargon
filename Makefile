@@ -1,6 +1,6 @@
 # Makefile for the Hunspell dictionary of Computer Jargon
 #
-# Input is a simple text file with on word per line
+# Input is a simple text file with one word per line
 #
 # The vocabulary and dictionary files use the following format:
 # - line 1: number of entries
