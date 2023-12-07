@@ -20,16 +20,18 @@ destdir := ~/.config/dicts
 endif
 
 # Default target
-all:	jargon.dic
+all: jargon.dic
 
-install:	jargon.dic jargon.aff
+install: jargon.dic jargon.aff
 	install -d $(destdir)
-	for file in $^; do install -C -m 0644 $${file} $(destdir); done
+	install -C -m 0644 $^ $(destdir)
 
 # Create vocabulary file from text file
-%.voc:	%.txt
+%.voc: %.txt
 	sort -u -r <$? | awk '{print} END {print NR}' | $(reverse) >$@
 
 # Create sorted dictionary from vocabulary file
-%.dic:	%.voc %.aff
+%.dic: %.voc %.aff
 	munch $*.voc $*.aff 2>/dev/null | tail +2 | sort -r | awk '{print} END {print NR}' | $(reverse) >$@
+
+.PHONY: all install
