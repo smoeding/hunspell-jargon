@@ -66,6 +66,7 @@ Dilberts
 DocBook
 EBCDIC
 EPROM
+ESXi
 FUD
 FUDs
 Fortran
@@ -80,14 +81,17 @@ Helvetica
 Hiera
 IBMs
 IMAP
+IMHO
 IRC
 IRCs
 ISDN
 Internets
 IoT
+Itanium
 JCL
 JPEG
 JPEGs
+Kerberos
 Kibana
 Knuths
 Ks
@@ -210,6 +214,7 @@ VAXes
 VLSI
 VM
 VMS
+VMware
 W3C
 WTF
 Winchesters
