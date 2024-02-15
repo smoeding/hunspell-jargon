@@ -1,3 +1,5 @@
 # Computer Jargon Dictionary
 
-This is my personal dictionary of computer jargon words.  They are available as plain text and as dictionary suitable for Hunspell.
+My personal dictionary of computer jargon words.
+
+It is available as plain text (`jargon.txt`) and as a dictionary (`jargon.aff` & `jargon.dic`) suitable for [Hunspell](https://github.com/hunspell/hunspell "Hunspell").
