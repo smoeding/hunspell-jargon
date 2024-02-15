@@ -291,6 +291,7 @@ faradize
 faradized
 faradizing
 ferrite
+filesystem
 firewire
 flamage
 flamer
@@ -478,6 +479,7 @@ symlink
 symlinks
 sysadmin
 sysadmins
+syslog
 sysop
 sysops
 tarball

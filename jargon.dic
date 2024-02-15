@@ -1,4 +1,4 @@
-405
+407
 ACL/S
 ACM
 ADSL
@@ -42,7 +42,7 @@ Cobol
 Cygwin
 DASD
 DDTs
-DEC/SM
+DEC/MS
 DECUS
 DECtape/S
 DIMM
@@ -199,10 +199,10 @@ bitwise
 bloatware
 bogon
 bogosity
-boink/DGS
+boink/SDG
 boxen
 browsable
-bugfix/GS
+bugfix/SG
 chomper/S
 codec
 combinatorial
@@ -227,15 +227,16 @@ dds
 deliminator
 delint/G
 dialup
-diff/DGS
+diff/DSG
 disassembler
 documentations
 droid/S
 echos
 ethernet
 excl
-faradize/DG
+faradize/GD
 ferrite
+filesystem
 firewire
 flamage
 flamer/S
@@ -246,7 +247,7 @@ foobar
 formatter/S
 fragiler
 fragilest
-ftp/SZG
+ftp/SGZ
 ghostscript
 glitched
 glitching
@@ -276,7 +277,7 @@ hotspot
 hyperspaces
 ioctl
 kermit
-kludge/GSD
+kludge/SDG
 kluge/DS
 koan/S
 lamers
@@ -290,7 +291,7 @@ liveware
 localhost
 loopback
 lurker/S
-mailbomb/DGS
+mailbomb/GDS
 manged
 mangler/S
 meta
@@ -306,7 +307,7 @@ modulo
 monospace/D
 multitask/S
 multiuser
-mung/GSD
+mung/SDG
 nagware
 nameserver
 namespace/S
@@ -322,7 +323,7 @@ newline/S
 notwork/S
 nybble/S
 offline
-overclock/DG
+overclock/GD
 pastie
 payware
 perl
@@ -352,7 +353,7 @@ segfault/S
 setgid
 setuid
 silicons
-snarf/DGS
+snarf/DSG
 stderr
 stdin
 stdio
@@ -364,6 +365,7 @@ subrecursive
 superuser/S
 symlink/S
 sysadmin/S
+syslog
 sysop/S
 tarball/S
 techspeak
