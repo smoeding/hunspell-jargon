@@ -1,4 +1,4 @@
-407
+409
 ACL/S
 ACM
 ADSL
@@ -42,7 +42,7 @@ Cobol
 Cygwin
 DASD
 DDTs
-DEC/MS
+DEC/SM
 DECUS
 DECtape/S
 DIMM
@@ -88,6 +88,7 @@ Logstash
 MIPS
 MVS
 Macbook
+Makefile/S
 Microsystems
 Minix
 Multics
@@ -199,10 +200,10 @@ bitwise
 bloatware
 bogon
 bogosity
-boink/SDG
+boink/GDS
 boxen
 browsable
-bugfix/SG
+bugfix/GS
 chomper/S
 codec
 combinatorial
@@ -227,7 +228,7 @@ dds
 deliminator
 delint/G
 dialup
-diff/DSG
+diff/DGS
 disassembler
 documentations
 droid/S
@@ -247,7 +248,7 @@ foobar
 formatter/S
 fragiler
 fragilest
-ftp/SGZ
+ftp/GZS
 ghostscript
 glitched
 glitching
@@ -277,7 +278,7 @@ hotspot
 hyperspaces
 ioctl
 kermit
-kludge/SDG
+kludge/GSD
 kluge/DS
 koan/S
 lamers
@@ -291,7 +292,7 @@ liveware
 localhost
 loopback
 lurker/S
-mailbomb/GDS
+mailbomb/SGD
 manged
 mangler/S
 meta
@@ -307,7 +308,7 @@ modulo
 monospace/D
 multitask/S
 multiuser
-mung/SDG
+mung/GDS
 nagware
 nameserver
 namespace/S
@@ -323,13 +324,13 @@ newline/S
 notwork/S
 nybble/S
 offline
-overclock/GD
+overclock/DG
 pastie
 payware
 perl
 pessimal
 phage/S
-phreak/GS
+phreak/SG
 postfix
 preprocessed
 preprocessing
@@ -353,7 +354,7 @@ segfault/S
 setgid
 setuid
 silicons
-snarf/DSG
+snarf/SDG
 stderr
 stdin
 stdio
@@ -371,6 +372,7 @@ tarball/S
 techspeak
 telnet
 timesharing
+toolchain
 tron
 ttys
 typeless

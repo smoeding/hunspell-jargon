@@ -103,6 +103,8 @@ Logstash
 MIPS
 MVS
 Macbook
+Makefile
+Makefiles
 Microsystems
 Minix
 Multics
@@ -487,6 +489,7 @@ tarballs
 techspeak
 telnet
 timesharing
+toolchain
 tron
 ttys
 typeless
