@@ -1,4 +1,4 @@
-409
+414
 ACL/S
 ACM
 ADSL
@@ -77,6 +77,8 @@ IoT
 Itanium
 JCL
 JPEG/S
+JRuby/S
+JVM/S
 Kerberos
 Kibana
 Knuths
@@ -125,6 +127,7 @@ Phreak/S
 PostScript
 Powerpoint
 Puppet
+PuppetDB/S
 Puppetlabs
 Puppetserver
 QWERTY
@@ -176,7 +179,7 @@ Unix/S
 Usenet/S
 Usenetter/S
 Usenix
-VAX/N
+VAX/MN
 VAXes
 VLSI
 VM
@@ -270,6 +273,7 @@ handshakings
 hardcoded
 harddisk/S
 hardwired
+heredoc/S
 hexadecimals
 highlevel
 hostname/S
@@ -368,6 +372,7 @@ symlink/S
 sysadmin/S
 syslog
 sysop/S
+systemd
 tarball/S
 techspeak
 telnet

@@ -91,6 +91,10 @@ Itanium
 JCL
 JPEG
 JPEGs
+JRubies
+JRuby
+JVM
+JVMs
 Kerberos
 Kibana
 Knuths
@@ -149,6 +153,8 @@ Phreaks
 PostScript
 Powerpoint
 Puppet
+PuppetDB
+PuppetDBs
 Puppetlabs
 Puppetserver
 QWERTY
@@ -211,6 +217,7 @@ Usenetter
 Usenetters
 Usenix
 VAX
+VAX's
 VAXen
 VAXes
 VLSI
@@ -337,6 +344,8 @@ hardcoded
 harddisk
 harddisks
 hardwired
+heredoc
+heredocs
 hexadecimals
 highlevel
 hostname
@@ -484,6 +493,7 @@ sysadmins
 syslog
 sysop
 sysops
+systemd
 tarball
 tarballs
 techspeak
