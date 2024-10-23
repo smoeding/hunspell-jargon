@@ -80,6 +80,7 @@ GnuTLS
 Helvetica
 Hiera
 IBMs
+Icinga
 IMAP
 IMHO
 IRC
@@ -122,6 +123,7 @@ NeXT
 NetBSD
 NextSTEP
 Novell
+Nvidia
 OEM
 OLTP
 OSes
