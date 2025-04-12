@@ -7,7 +7,7 @@
 # - remaining lines: one entry per line
 #
 # A sorted file is created by using the following steps:
-# - sort all enries in reverse order
+# - sort all entries in reverse order
 # - use awk to add a final line with the number of entries
 # - reverse the final file; use 'tac' (Linux) or 'tail -r' (MacOS)
 
