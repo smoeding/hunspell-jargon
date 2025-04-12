@@ -80,12 +80,12 @@ GnuTLS
 Helvetica
 Hiera
 IBMs
-Icinga
 IMAP
 IMHO
 IRC
 IRCs
 ISDN
+Icinga
 Internets
 IoT
 Itanium
@@ -130,6 +130,7 @@ OSes
 OpenBSD
 OpenSSL
 OpenVMS
+OpenVox
 P2P
 PARC
 PARCs
@@ -391,6 +392,8 @@ manglers
 meta
 metacharacter
 metacharacters
+metaparameter
+metaparameters
 metasyntactic
 microfloppies
 minifloppies

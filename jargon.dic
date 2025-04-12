@@ -1,4 +1,4 @@
-416
+418
 ACL/S
 ACM
 ADSL
@@ -111,6 +111,7 @@ OSes
 OpenBSD
 OpenSSL
 OpenVMS
+OpenVox
 P2P
 PARC/S
 PCI
@@ -303,6 +304,7 @@ manged
 mangler/S
 meta
 metacharacter/S
+metaparameter/S
 metasyntactic
 microfloppies
 minifloppies
