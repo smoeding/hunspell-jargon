@@ -64,6 +64,7 @@ Diffie
 Dilbert
 Dilberts
 DocBook
+Dockerfile
 EBCDIC
 EPROM
 ESXi
@@ -100,6 +101,7 @@ Kerberos
 Kibana
 Knuths
 Ks
+Kubernetes
 LDAP
 LISPer
 LISPers
@@ -239,6 +241,8 @@ allocators
 alts
 antispam
 autocorrect
+backend
+backends
 bandwidths
 bauds
 biometric
@@ -255,8 +259,10 @@ browsable
 bugfix
 bugfixes
 bugfixing
+camelcase
 chomper
 chompers
+codebase
 codec
 combinatorial
 commandline
@@ -317,6 +323,8 @@ formatter
 formatters
 fragiler
 fragilest
+frontend
+frontends
 ftp
 ftpers
 ftping
@@ -358,6 +366,7 @@ hotlinks
 hotspot
 hyperspaces
 ioctl
+iterable
 kermit
 kludge
 kludged
@@ -482,6 +491,7 @@ snarfs
 stderr
 stdin
 stdio
+stdlib
 stdout
 stylesheet
 subdirectories

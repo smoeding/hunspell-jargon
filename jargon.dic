@@ -1,4 +1,4 @@
-418
+426
 ACL/S
 ACM
 ADSL
@@ -42,7 +42,7 @@ Cobol
 Cygwin
 DASD
 DDTs
-DEC/SM
+DEC/MS
 DECUS
 DECtape/S
 DIMM
@@ -54,6 +54,7 @@ Datamation
 Diffie
 Dilbert/S
 DocBook
+Dockerfile
 EBCDIC
 EPROM
 ESXi
@@ -84,6 +85,7 @@ Kerberos
 Kibana
 Knuths
 Ks
+Kubernetes
 LDAP
 LISPer/S
 Linuxes
@@ -182,7 +184,7 @@ Unix/S
 Usenet/S
 Usenetter/S
 Usenix
-VAX/MN
+VAX/NM
 VAXes
 VLSI
 VM
@@ -199,6 +201,7 @@ allocator/S
 alts
 antispam
 autocorrect
+backend/S
 bandwidths
 bauds
 biometric
@@ -206,11 +209,13 @@ bitwise
 bloatware
 bogon
 bogosity
-boink/GDS
+boink/DSG
 boxen
 browsable
 bugfix/GS
+camelcase
 chomper/S
+codebase
 codec
 combinatorial
 commandline/S
@@ -225,7 +230,7 @@ crackings
 cray/S
 creationisms
 crippleware
-cruft/DS
+cruft/SD
 crufty
 cryptographic/S
 cyberspaces
@@ -234,14 +239,14 @@ dds
 deliminator
 delint/G
 dialup
-diff/DGS
+diff/DSG
 disassembler
 documentations
 droid/S
 echos
 ethernet
 excl
-faradize/GD
+faradize/DG
 ferrite
 filesystem
 firewire
@@ -254,7 +259,8 @@ foobar
 formatter/S
 fragiler
 fragilest
-ftp/GZS
+frontend/S
+ftp/SGZ
 ghostscript
 glitched
 glitching
@@ -284,6 +290,7 @@ hotlink/S
 hotspot
 hyperspaces
 ioctl
+iterable
 kermit
 kludge/GSD
 kluge/DS
@@ -299,7 +306,7 @@ liveware
 localhost
 loopback
 lurker/S
-mailbomb/SGD
+mailbomb/GDS
 manged
 mangler/S
 meta
@@ -366,6 +373,7 @@ snarf/SDG
 stderr
 stdin
 stdio
+stdlib
 stdout
 stylesheet
 subdirectory/S
