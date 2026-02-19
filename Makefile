@@ -22,9 +22,11 @@ endif
 # Default target
 all: jargon.dic
 
-install: jargon.dic jargon.aff
-	install -d $(destdir)
+install: jargon.dic jargon.aff | $(destdir)
 	install -C -m 0644 $^ $(destdir)
+
+$(destdir):
+	install -d $(destdir)
 
 # Create vocabulary file from text file
 %.voc: %.txt
