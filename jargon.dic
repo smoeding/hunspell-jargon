@@ -1,4 +1,4 @@
-426
+439
 ACL/S
 ACM
 ADSL
@@ -38,6 +38,8 @@ CSR/S
 CTSS
 Caltech
 CentOS
+Ceph
+CephFS
 Cobol
 Cygwin
 DASD
@@ -66,6 +68,7 @@ GID/S
 Github
 Gitlab
 GnuTLS
+HPC
 Helvetica
 Hiera
 IBMs
@@ -90,6 +93,7 @@ LDAP
 LISPer/S
 Linuxes
 Logstash
+MDS/S
 MIPS
 MVS
 Macbook
@@ -109,6 +113,7 @@ Novell
 Nvidia
 OEM
 OLTP
+OSD/S
 OSes
 OpenBSD
 OpenSSL
@@ -130,6 +135,7 @@ Perl/S
 PhD/S
 Phreak/S
 PostScript
+PowerShell
 Powerpoint
 Puppet
 PuppetDB/S
@@ -138,6 +144,7 @@ Puppetserver
 QWERTY
 RFC/S
 RGB
+RGW/S
 RHEL
 ROFL
 ROTFL
@@ -171,6 +178,7 @@ TWENEX
 TeX
 TeXes
 Tenex
+Texinfo
 UBE
 UCB
 UCE
@@ -189,6 +197,7 @@ VAXes
 VLSI
 VM
 VMS
+VMs
 VMware
 W3C
 WTF
@@ -207,12 +216,13 @@ bauds
 biometric
 bitwise
 bloatware
+blog
 bogon
 bogosity
-boink/DSG
+boink/GDS
 boxen
 browsable
-bugfix/GS
+bugfix/SG
 camelcase
 chomper/S
 codebase
@@ -230,7 +240,7 @@ crackings
 cray/S
 creationisms
 crippleware
-cruft/SD
+cruft/DS
 crufty
 cryptographic/S
 cyberspaces
@@ -239,16 +249,16 @@ dds
 deliminator
 delint/G
 dialup
-diff/DSG
+diff/SDG
 disassembler
 documentations
 droid/S
 echos
 ethernet
 excl
-faradize/DG
+faradize/GD
 ferrite
-filesystem
+filesystem/S
 firewire
 flamage
 flamer/S
@@ -260,7 +270,7 @@ formatter/S
 fragiler
 fragilest
 frontend/S
-ftp/SGZ
+ftp/GSZ
 ghostscript
 glitched
 glitching
@@ -289,6 +299,7 @@ hostname/S
 hotlink/S
 hotspot
 hyperspaces
+iSCSI
 ioctl
 iterable
 kermit
@@ -306,11 +317,12 @@ liveware
 localhost
 loopback
 lurker/S
-mailbomb/GDS
+mailbomb/SDG
 manged
 mangler/S
 meta
 metacharacter/S
+metadata
 metaparameter/S
 metasyntactic
 microfloppies
@@ -323,7 +335,7 @@ modulo
 monospace/D
 multitask/S
 multiuser
-mung/GDS
+mung/GSD
 nagware
 nameserver
 namespace/S
@@ -369,7 +381,7 @@ segfault/S
 setgid
 setuid
 silicons
-snarf/SDG
+snarf/SGD
 stderr
 stdin
 stdio
@@ -404,6 +416,7 @@ usenet
 userfriendly
 vaporware
 videotex
+virtualization
 waldo/S
 waldoes
 warez

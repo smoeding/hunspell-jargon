@@ -44,6 +44,8 @@ CSRs
 CTSS
 Caltech
 CentOS
+Ceph
+CephFS
 Cobol
 Cygwin
 DASD
@@ -78,6 +80,7 @@ GIDs
 Github
 Gitlab
 GnuTLS
+HPC
 Helvetica
 Hiera
 IBMs
@@ -107,6 +110,8 @@ LISPer
 LISPers
 Linuxes
 Logstash
+MDS
+MDSs
 MIPS
 MVS
 Macbook
@@ -128,6 +133,8 @@ Novell
 Nvidia
 OEM
 OLTP
+OSD
+OSDs
 OSes
 OpenBSD
 OpenSSL
@@ -156,6 +163,7 @@ PhDs
 Phreak
 Phreaks
 PostScript
+PowerShell
 Powerpoint
 Puppet
 PuppetDB
@@ -166,6 +174,8 @@ QWERTY
 RFC
 RFCs
 RGB
+RGW
+RGWs
 RHEL
 ROFL
 ROTFL
@@ -203,6 +213,7 @@ TWENEX
 TeX
 TeXes
 Tenex
+Texinfo
 UBE
 UCB
 UCE
@@ -228,6 +239,7 @@ VAXes
 VLSI
 VM
 VMS
+VMs
 VMware
 W3C
 WTF
@@ -248,6 +260,7 @@ bauds
 biometric
 bitwise
 bloatware
+blog
 bogon
 bogosity
 boink
@@ -310,6 +323,7 @@ faradized
 faradizing
 ferrite
 filesystem
+filesystems
 firewire
 flamage
 flamer
@@ -365,6 +379,7 @@ hotlink
 hotlinks
 hotspot
 hyperspaces
+iSCSI
 ioctl
 iterable
 kermit
@@ -401,6 +416,7 @@ manglers
 meta
 metacharacter
 metacharacters
+metadata
 metaparameter
 metaparameters
 metasyntactic
@@ -532,6 +548,7 @@ usenet
 userfriendly
 vaporware
 videotex
+virtualization
 waldo
 waldoes
 waldos
